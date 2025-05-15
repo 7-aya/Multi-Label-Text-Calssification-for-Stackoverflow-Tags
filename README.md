@@ -14,7 +14,7 @@ I used the preprocessed for “StackSample:10% of Stack Overflow Q&A” [dataset
 * numpy
 * ast
 
-## Accuracy
+# Accuracy
 * SVC: ~62.20
 * SGD: ~52.49 
 * LR: ~51.84
